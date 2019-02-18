@@ -1,3 +1,10 @@
+/**
+ *
+ *  author  :   Chia Yuan Lin (林家源)
+ *
+ *  email   :   lo919201@gmail.com
+ *
+ * **/
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;

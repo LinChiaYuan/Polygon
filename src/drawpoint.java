@@ -1,6 +1,10 @@
-import javax.swing.text.StyledEditorKit.BoldAction;
-
-
+/**
+ *
+ *  author  :   Chia Yuan Lin (林家源)
+ *
+ *  email   :   lo919201@gmail.com
+ *
+ * **/
 public class drawpoint
 {
     private int X ;			// X 座標
